@@ -18,7 +18,7 @@ const chosenSetting = document.getElementById("choosenSetting");
 
 // Constants for final buttons and p tags
 const pbButton = document.getElementById("playback");
-const raButton = document.getElementById("random");
+const rButton = document.getElementById("random");
 const storyOutput = document.getElementById("story");
 
 // Variables for pre-defined arrays
